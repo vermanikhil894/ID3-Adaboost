@@ -9,21 +9,21 @@ Adaboost algorithm: AdaBoost, also called Adaptive Boosting, is a technique in M
 
 
 We have used the following datasets. The description of datasets can be found at:
-Car.data -> https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
-ecoli.data -> https://archive.ics.uci.edu/ml/datasets/Ecoli
-mushroom.data -> https://archive.ics.uci.edu/ml/datasets/Mushroom
-letter-recognition.data -> https://archive.ics.uci.edu/ml/datasets/Letter+Recognition
-breast-cancer-wisconsin.data -> https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
+1. Car.data -> https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
+2. ecoli.data -> https://archive.ics.uci.edu/ml/datasets/Ecoli
+3. mushroom.data -> https://archive.ics.uci.edu/ml/datasets/Mushroom
+4. letter-recognition.data -> https://archive.ics.uci.edu/ml/datasets/Letter+Recognition
+5. breast-cancer-wisconsin.data -> https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
 
 Run below command to perform classification on the data:
-python3 ID3.py car
-python3 ID3.py beastcancer
-python3 ID3.py ecoli
-python3 ID3.py letterrecognition
-python3 ID3.py mushroom
+1. python3 ID3.py car
+2. python3 ID3.py beastcancer
+3. python3 ID3.py ecoli
+4. python3 ID3.py letterrecognition
+5. python3 ID3.py mushroom
 
-python3 Adaboost.py car
-python3 Adaboost.py beastcancer
-python3 Adaboost.py ecoli
-python3 Adaboost.py letterrecognition
-python3 Adaboost.py mushroom
+6. python3 Adaboost.py car
+7. python3 Adaboost.py beastcancer
+8. python3 Adaboost.py ecoli
+9. python3 Adaboost.py letterrecognition
+10. python3 Adaboost.py mushroom
