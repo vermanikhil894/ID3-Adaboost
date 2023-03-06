@@ -16,3 +16,14 @@ letter-recognition.data -> https://archive.ics.uci.edu/ml/datasets/Letter+Recogn
 breast-cancer-wisconsin.data -> https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
 
 Run below command to perform classification on the data:
+python3 ID3.py car
+python3 ID3.py beastcancer
+python3 ID3.py ecoli
+python3 ID3.py letterrecognition
+python3 ID3.py mushroom
+
+python3 Adaboost.py car
+python3 Adaboost.py beastcancer
+python3 Adaboost.py ecoli
+python3 Adaboost.py letterrecognition
+python3 Adaboost.py mushroom
